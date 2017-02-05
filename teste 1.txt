@@ -1,2 +1,5 @@
 Coé?
 Vamo ver se o primeiro commit rola...
+
+Essa porra não tava "staged"
+:S
